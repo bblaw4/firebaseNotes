@@ -1,2 +1,0 @@
-# firebaseNotes
-Created with CodeSandbox
